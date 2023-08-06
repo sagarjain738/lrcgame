@@ -1,0 +1,26 @@
+{
+  "sam": [
+    { "name": "sugar", "question": 1, "result": "1905" },
+    { "name": "sugar", "question": 4, "result": "hgbfvdcsxaz" }
+  ],
+  "sugar": [
+    { "name": "sugar", "question": 7, "result": "hngbvfdcsxaz" },
+    { "name": "sugar", "question": 8, "result": "hgbfvdcsxaz" },
+    { "name": "sugar", "question": 9, "result": "NHGBFVDCSXAZ" },
+    { "name": "sugar", "question": 10, "result": "nhgbfvdcsxaz" },
+    { "name": "sugar", "question": 11, "result": "Bravo" }
+  ],
+  "Shakalaka": [
+    { "name": "Shakalaka", "question": 1, "result": "1905" },
+    { "name": "Shakalaka", "question": 2, "result": "40-120 °C" },
+    { "name": "Shakalaka", "question": 3, "result": "Kg/m3" },
+    { "name": "Shakalaka", "question": 4, "result": "gfvdcsx" },
+    { "name": "Shakalaka", "question": 5, "result": "gfvdcsxz" }
+  ],
+  "varsha": [
+    { "name": "varsha", "question": 1, "result": "1905" },
+    { "name": "varsha", "question": 2, "result": "40-120 °C" },
+    { "name": "varsha", "question": 3, "result": "Kg/m3" },
+    { "name": "varsha", "question": 4, "result": "ytrgfdsxz" }
+  ]
+}

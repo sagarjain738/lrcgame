@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "Question": "When Honeywell Founded",
+    "answer": ["1905", "1990", "1885", "2000"],
+    "type": "obj"
+  },
+  {
+    "id": "2",
+    "Question": "What is the boiling temperature of petrol?",
+    "answer": ["40-120 °C", "120-180 °C", "180-250 °C", "250-320 °C"],
+    "type": "obj"
+  },
+  {
+    "id": "3",
+    "Question": "Unit of Density ",
+    "answer": ["Kg/m3", "Kg/m2"],
+    "type": "obj"
+  },
+  {
+    "id": "4",
+    "Question": "MSC-L stands for",
+    "answer": [
+      "Multistream Controller for Loading",
+      "Multiple Controller Leveler",
+      "Multiple Communication for Local Data",
+      "Multimedia Controller for Loading"
+    ],
+    "type": "obj"
+  },
+  {
+    "id": "5",
+    "Question": "ANPR stands for",
+    "answer": [
+      "Automatic Number plate recognition",
+      "Automatic New Person recognition",
+      "Automatic Number of People recognition",
+      "Automatic Name Phone Retriever"
+    ],
+    "type": "obj"
+  },
+  {
+    "id": "7",
+    "Question": "ChatGPT stands for",
+    "answer": ["Chat Generative Pre-Trained Transformer"],
+    "type": "one"
+  },
+  {
+    "id": "8",
+    "Question": "TFMS stands for",
+    "answer": [
+      "Tank Farm Management System",
+      "Tractor & Farm Management System",
+      "Total Finance Management System",
+      "Technical Firmware Management System"
+    ],
+    "type": "one"
+  },
+  {
+    "id": "9",
+    "Question": "OCR stands for",
+    "answer": [
+      "Optical Character Recognition",
+      "Original Car Recognition",
+      "Obstructive Cable Recognition",
+      "Optical Character Recognition"
+    ],
+    "type": "one"
+  },
+  {
+    "id": "10",
+    "Question": "API stands for",
+    "answer": ["Application programming interface"],
+    "type": "one"
+  },
+  {
+    "id": "11",
+    "Question": "Which is not a browser",
+    "answer": ["Bravo", "Thar", "Safari", "Tor"],
+    "type": "obj"
+  },
+  {
+    "id": "12",
+    "Question": "What is RFID",
+    "answer": ["Radio Frequency Identification tag"],
+    "type": "one"
+  },
+  {
+    "id": "13",
+    "Question": "Which is not a mobile OS",
+    "answer": [
+      "Android (Google)",
+      "iOS (Apple)",
+      "Bada (Samsung)",
+      "Sailfish",
+      "All of the above"
+    ],
+    "type": "obj"
+  },
+  {
+    "id": "14",
+    "Question": "It occurs once in a minute, twice in a moment, but never in an hour",
+    "answer": ["M"],
+    "type": "one"
+  }
+]

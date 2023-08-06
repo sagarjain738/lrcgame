@@ -1,0 +1,62 @@
+[
+  {
+    "question": "When Honeywell Founded",
+    "answer": ["1905", "1990", "1885", "2000"],
+    "type": "obj"
+  },
+  {
+    "question": "What is the boiling temperature of petrol?",
+    "answer": ["40-120oC", "120-180oC", "180-250oC", "250-320oC"],
+    "type": "obj"
+  },
+  {
+    "question": "Unit of Density ",
+    "answer": ["Kg/m3", "Kg/m2"],
+    "type": "obj"
+  },
+  {
+    "question": "MSC-L stands for",
+    "answer": "Multistream Controller for Loading ",
+    "type": "one"
+  },
+  {
+    "question": "ANPR stands for",
+    "answer": "Automatic Number plate recognition ",
+    "type": "one"
+  },
+  {
+    "question": "ANPR stands for",
+    "answer": "Automatic Number plate recognition ",
+    "type": "one"
+  },
+  {
+    "question": "ChatGPT stands for",
+    "answer": "Chat Generative Pre-Trained Transformer",
+    "type": "one"
+  },
+  {
+    "question": "TFMS stands for",
+    "answer": "Tank Farm Management System",
+    "type": "one"
+  },
+  {
+    "question": "OCR stands for",
+    "answer": "Optical Character Recognition",
+    "type": "one"
+  },
+  {
+    "question": "API stands for",
+    "answer": "Application programming interface",
+    "type": "one"
+  },
+  {
+    "question": "Which is not a browser",
+    "answer": ["Bravo", "Thar", "Safari", "Tor"],
+    "type": "obj"
+  },
+  {
+    "question": "What is RFID",
+    "answer": "Radio Frequency Identification tag",
+    "type": "one"
+  }
+]

@@ -38,7 +38,7 @@ const Quiz = ({ userName }) => {
   );
 
   const mutation = useMutation((newTodo) => {
-    return axios.post("/api/game", newTodo);
+    return axios.post("http://localhost:3000/api/game", newTodo);
   });
 
   const handleSubmit = () => {

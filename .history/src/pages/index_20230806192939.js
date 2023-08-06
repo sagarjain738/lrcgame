@@ -32,7 +32,7 @@ export default function Home() {
     return (
       <>
         <Head>
-          <title>LRC Quiz Game</title>
+          <title>LRC Game</title>
           <meta
             name="description"
             content="Honeywell Automation India Limited"

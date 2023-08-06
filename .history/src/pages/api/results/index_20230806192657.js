@@ -22,7 +22,7 @@ const allowCors = (fn) => async (req, res) => {
   return await fn(req, res);
 };
 
-const handler = (req, res)=> {
+export default async function handler(req, res) {
   // console.log(req.query?.name);
   //Find the absolute path of the json directory
   // console.log(req.query);
@@ -42,5 +42,3 @@ const handler = (req, res)=> {
   res.status(200).send(data);
   // }
 }
-
-module.exports = allowCors(handler);

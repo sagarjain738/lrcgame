@@ -8,5 +8,8 @@
   ],
   "samamama": [
     { "name": "samamama", "question": 1, "result": false, "duration": 6 }
+  ],
+  "sgaarara": [
+    { "name": "sgaarara", "question": 1, "result": false, "duration": 5 }
   ]
 }
